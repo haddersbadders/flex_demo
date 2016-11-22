@@ -10,4 +10,19 @@ See [https://css-tricks.com/snippets/css/a-guide-to-flexbox/](https://css-tricks
 
 ## My example 
 
-My example is really simple. 
+My example is really simple. To do flex, you need to put items inside a containing element. I have a DIV with a class name *container*:
+
+```
+<div class="container">
+
+</div>
+```
+The only CSS property this element needs is: 
+
+```
+.container {
+  display: flex;
+  }
+```
+
+
