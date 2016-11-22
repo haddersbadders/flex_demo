@@ -25,4 +25,23 @@ The only CSS property this element needs is:
   }
 ```
 
+This makes the items inside it, well, flexible I guess!
+
+Inside the container are more DIVs:
+
+```
+<div class="item">
+  //Whatever content
+</div>
+```
+
+And these are styled like this:
+
+```
+.item {
+  flex-grow: 1; /* this makes the items occupy available space */
+  padding: 0.5em; /* adds some space for each item */ 
+  box-sizing: border-box; /* Seemed to help the items stay in a row! */
+  }
+```
 
