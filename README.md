@@ -1,5 +1,13 @@
 # Flex demo
 
-This is a demo of the Flex CSS property. You can see the love page here:
+This is a demo of the Flex CSS property. You can see the live page here:
 
-[https://www.shef.ac.uk/cics/software/adobesitelicense](https://www.shef.ac.uk/cics/software/adobesitelicense)
+[https://haddersbadders.github.io/flex_demo/](https://haddersbadders.github.io/flex_demo/)
+
+Flex or Flexbox is a really nice way to deal with CSS positioning. 
+
+See [https://css-tricks.com/snippets/css/a-guide-to-flexbox/](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) for a full explanation. 
+
+## My example 
+
+My example is really simple. 
